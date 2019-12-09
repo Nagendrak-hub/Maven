@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35053" started-at="2019-12-09T05:04:17Z" finished-at="2019-12-09T05:04:52Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35053" started-at="2019-12-09T05:04:17Z" finished-at="2019-12-09T05:04:52Z">
+      <class name="Automation2.HealthIns">
+        <test-method status="PASS" signature="browser()[pri:0, instance:Automation2.HealthIns@75bd9247]" name="browser" is-config="true" duration-ms="1148" started-at="2019-12-09T10:34:17Z" finished-at="2019-12-09T10:34:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method status="PASS" signature="test()[pri:0, instance:Automation2.HealthIns@75bd9247]" name="test" duration-ms="33873" started-at="2019-12-09T10:34:18Z" finished-at="2019-12-09T10:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Automation2.HealthIns -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
